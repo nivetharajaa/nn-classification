@@ -259,10 +259,13 @@ print(le.inverse_transform(x_single_prediction))
 
 ![315350342-b2a03f08-13f5-4038-a5da-b86bc3dd1191](https://github.com/nivetharajaa/nn-classification/assets/120543388/651b800c-dec3-4538-bdf0-1440f18c057d)
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
+
+![315351158-a29220ba-7df9-4c50-9dd7-39c6085b2b80](https://github.com/nivetharajaa/nn-classification/assets/120543388/3ecb94a4-1b16-4b54-87f4-9386d1a533c1)
 
 ![315351887-0d65379a-0b22-4294-ba05-97bd2d5309b5](https://github.com/nivetharajaa/nn-classification/assets/120543388/36d0797e-bab1-4ed6-997f-c3cb83b48c03)
 
+![315352462-c5c0b379-73cf-4967-95b5-d8895f11a564](https://github.com/nivetharajaa/nn-classification/assets/120543388/c1d46d75-cda8-4537-8a62-a826f736666f)
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
